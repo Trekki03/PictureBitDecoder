@@ -3,3 +3,9 @@
 /lib/
 .idea
 EmpfaengerSketch.iml
+/settings.gradle.kts
+/gradlew.bat
+/gradlew
+/gradle.properties
+/build.gradle.kts
+/gradle/
